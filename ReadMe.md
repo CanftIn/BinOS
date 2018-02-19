@@ -1,4 +1,4 @@
-# BinOS
+# BitOS
 
 my operating system.
 
